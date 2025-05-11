@@ -20,6 +20,12 @@ A lightweight JavaScript plugin to create confirmation popovers using Bootstrap 
         data-href="/delete/123">
   Delete
 </button>
+<a href="/delete/456"
+   class="btn btn-warning"
+   data-confirm="true"
+   data-message="Are you sure you want to remove this item?">
+  Remove Item
+</a>
 ```
 
 ## License
