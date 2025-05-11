@@ -1,6 +1,6 @@
 # Bootstrap 5 Confirm Popover
 
-A lightweight JavaScript plugin to create confirmation popovers using Bootstrap 5's native Popover — no jQuery required.
+A lightweight JavaScript plugin to create small confirmation popovers using Bootstrap 5's native Popover — no jQuery required. These appear more compact than most other solutions I've seen that use Bootstrap 5. 
 
 ## Usage
 
